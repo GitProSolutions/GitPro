@@ -1,7 +1,4 @@
 # GitPro
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is GitPro
-==============================================================================================================================
-
 A DevOps Engineer experienced in IT and automation.
 ---------------------------------------------------
 
@@ -28,7 +25,7 @@ src="https://img.shields.io/github/followers/GitProSolutions?logo=github&style=f
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/GitProSolutions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/beau-ernst-0a48a3264" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/GitProSolutions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/beau-ernst-0a48a3264" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://portosaurus.github.io/BeauErnstGitPro/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
