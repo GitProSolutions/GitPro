@@ -9,7 +9,7 @@ I am Beau Ernst, also known as GitPro, and I have several years of experience in
 
 * 🌍  I'm based in Netherlands
 * ✉️  You can contact me at [Beau.Ernst.Work@gmail.com](mailto:Beau.Ernst.Work@gmail.com)
-* 🧠  I'm currently expanding my knowledge in cloud computing and security practices, as I believe these are crucial skills for a successful DevOps Engineer. I'm actively learning about cloud platforms such as AWS, Azure, and Google Cloud, and exploring best practices for securing cloud infrastructure and data. Additionally, I'm keeping up with emerging technologies and trends in the industry to stay ahead of the curve and provide the best solutions to my clients.
+* 🧠  I'm learning about cloud computing and security for my role as a DevOps Engineer. This includes AWS, Azure, and Google Cloud, as well as staying up-to-date with industry trends.
 * 🤝  I'm open to collaborating on that involve gaining a deeper understanding of DevOps engineering.
 * ⚡  Why did the programmer quit his job? He didn't get arrays ;) :)
 
